@@ -23,7 +23,7 @@ I made an array of actions and made buttons out of them.
 
 ## Demo
 
-The demo of the CARTOONIST eating application can be found [here](https://snavdeepsingh.github.io/06-AJAX/).
+The demo of the CARTOONIST can be found [here](https://snavdeepsingh.github.io/06-AJAX/).
 
 
 #### License
