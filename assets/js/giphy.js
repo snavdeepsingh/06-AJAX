@@ -99,6 +99,7 @@
   $(document).on("click", ".cartoon-btn", displayCartoonGiphy);
   
   $(document).on("click", ".gif", function(){
+    // console.log("this is the button", $(this)[0].attributes["data-animate"].val());
     var state = $(this).attr('data-state');
     if ( state == 'still'){
         $(this).attr('src', $(this).data('animate'));
